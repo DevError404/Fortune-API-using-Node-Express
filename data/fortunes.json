@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "message": "Hii this is first message",
+        "lucky_no": 12,
+        "spirit_animal": "dog"
+    },
+    {
+        "id": 2,
+        "message": "Hii this is second message",
+        "lucky_no": 15,
+        "spirit_animal": "lion"
+    }
+]
